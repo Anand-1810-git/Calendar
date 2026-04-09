@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Interactive Calendar
 
 An interactive and beautifully crafted React calendar application built with a wall-calendar aesthetic.
@@ -33,3 +34,7 @@ with socketserver.TCPServer(("", 8000), Handler) as httpd:
 1. Ensure Node.js is installed.
 2. Run `npm install` inside the project root.
 3. Run `npm run dev` to boot up the Vite dev server and view the primary `index.html`.
+=======
+# Calendar
+A modern interactive calendar with date selection, navigation, and notes features built using React.
+>>>>>>> 593595e7e6906b83fc9db99cda221da50a5fff4a
